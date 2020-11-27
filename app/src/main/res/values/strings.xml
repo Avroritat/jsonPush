@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Anna Pushkina JSON</string>
+    <string name="simple_json">
+ "{"results":{"sitename":"Разработка мобильных 2020",
+ "url":"""https://yakse.ru//",
+ "array":[{"element":"Элемент 1"}, {"element":"Элемент 2"},
+{"element":"Элемент 3"}]}}"</string>
+
+
+</resources>
